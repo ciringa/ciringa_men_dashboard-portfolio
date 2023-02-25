@@ -1,0 +1,214 @@
+body{
+  background-color: rgb(13, 0, 23);
+  color:white;
+  /*background-image: url(images/pattern1.png);*/
+
+}
+
+#container{
+   display: flex;
+   
+}
+
+#container1{
+	position: absolute;
+	left:1100px;
+	top: 5px;
+    display: flex;
+   
+}
+
+.img_ico{
+  width: 30px;
+  height: 30px;
+
+}
+
+.icon{
+	margin: 15px;
+	width: 50px;
+	height: 50px;
+    border-radius: 5px;
+    background-color: rgb(60, 0, 110);
+    align-items: center;
+
+}
+
+
+
+
+.icon:hover{
+   border-radius: 10px;
+   background-color: rgb(129, 51, 245);
+   box-shadow: 0 6px 30px rgb(92, 35, 176);
+   
+   
+}
+.img_ico:hover{
+
+	   	margin-top: 8px;
+	margin-left: 8px;
+}
+.img_ico{
+
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+
+.icon1{
+	margin: 15px;
+	width: 50px;
+	height: 50px;
+    border-radius: 5px;
+    background-color: rgb(60, 0, 110);
+    left: 1100px;
+    top: 25px;
+
+}
+.icon1:hover{
+   border-radius: 10px;
+   background-color: rgb(129, 51, 245);
+   box-shadow: 0 6px 30px rgb(92, 35, 176);
+   
+   
+}
+
+
+
+
+
+
+
+
+header{
+  background: rgba(61, 0, 107, 0.50);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(70, 0, 108, 0.5);
+
+
+
+
+  position: absolute;
+  width: 1300px;
+  height: 100px;
+
+
+}
+
+
+
+#main_toolbar{
+  position: absolute;
+  top:110px;
+  width: 300px;
+  height: 1100px;
+
+  background: rgba(61, 0, 107, 0.50);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(70, 0, 108, 0.5);
+  
+
+
+}
+
+.middle_content:hover{
+
+background: rgba(25, 10, 30, 0.80);
+
+}
+
+#middle_content1{
+   position: absolute;
+   width: 700px;
+   height: 400px;
+   left: 440px;
+   top: 700px;
+
+
+  background: rgba(20, 5, 27, 0.80);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(30, 15, 30, 0.5);
+
+}
+#middle_content2{
+   position: absolute;
+   width: 700px;
+   height: 400px;
+   left: 440px;
+   top: 220px;
+
+
+  background: rgba(20, 5, 27, 0.80);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(30, 15, 30, 0.5);
+
+}
+p{
+
+	margin: 5px;
+}
+
+.display_box{
+  margin-top: 15px;
+  width: 275px;
+  height: 275px;
+  margin: 5px;
+  background: rgba(20, 5, 27, 0.80);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(30, 15, 30, 0.5);
+
+
+}
+.display_box:hover{
+border-radius: 10px;
+background: rgba(25,8, 30, 0.80);
+}
+
+.banner1{
+
+
+   margin-left: 15px;
+   
+   
+   width: 250px;
+   height: 150px
+
+}
+
+#banner3{
+  width: 32px;
+  height: 32px;
+
+}
+
+.title1{
+     text-shadow: red -2px 0,
+                  cyan 2px 0,
+                  purple 4px 0;
+
+
+   margin-left: 15px;
+   font-family: sans-serif;
+
+}
+.title1:hover{
+   text-shadow: red -4px 0,
+
+                cyan 4px 0,
+                purple 6px 0;
+
+}
+
+#p2{
+    text-shadow: black 10px 0;
+	font-family: cursive;
+	font-size: 15px;
+}
+
+#img_dito{
+    height: 90px;
+    width: 700px;
+
+
+}
